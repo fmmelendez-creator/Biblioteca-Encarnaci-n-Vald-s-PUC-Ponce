@@ -1,0 +1,33 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_9CE456BF_B00D_E86B_41E1_F3A5E3C135A6.label = 1_entrada
+panorama_9CC2E46F_B00D_A8EB_41E2_CC5B59FCB820.label = 2_ vestíbulo
+panorama_9CCA2D5D_B00D_B82F_4199_0249D5E3C97D.label = 3_ museo 1
+panorama_9CCD764C_B00D_A82D_41E5_6D3A0BFB5323.label = 4_ museo 2
+panorama_9CCD7F07_B00D_981B_41C1_92D3D50E59E8.label = 5_ museo 3
+panorama_9CCF07F5_B00E_77FF_41DA_E2FB3EFC12E7.label = 6_ estudio grupal y destrezas
+panorama_9CCF50C1_B00E_6817_41B7_A29D3A5F40CA.label = 7_ mesas y referencias 1
+panorama_9CCF99AF_B00E_986B_41DB_DFF61826DBA2.label = 8_ mesas y referencias 2
+panorama_9CCF6290_B00E_A835_41E4_B0F0C104126B.label = 9_ centro de cultura china
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca Encarnación Valdés
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria - Ponce 
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PUCP Biblioteca Encarnación Valdés 
